@@ -11,3 +11,6 @@ CREATE OR REPLACE API INTEGRATION git_api_integration_example
 
 DROP SECRET git_secret_example;
 DROP API INTEGRATION git_api_integration_example;
+
+
+
