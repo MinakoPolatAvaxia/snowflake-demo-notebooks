@@ -12,4 +12,4 @@ BEGIN
     -- Third query: delete a record
     DELETE FROM demo_table WHERE id = 2;
 END;
-$$;
+$$; 
